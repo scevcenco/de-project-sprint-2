@@ -1,3 +1,7 @@
+This is study project for data engineering course at Yandex Practicum Sprint 2
+
+---------------
+
 # Проект 2-го спринта
 
 ### Описание
